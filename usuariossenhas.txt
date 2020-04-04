@@ -1,0 +1,40 @@
+-----------------------------------
+Nome : root
+CPF : 000.000.000-00
+Endereço : 0000000
+Telefone : 000000000
+Email : 00000000000
+Senha : root
+Sexo : Masculino
+"root - root" Bibliotecario
+-----------------------------------
+-----------------------------------
+Nome : Claudio
+Matricula : 000
+CPF : 000.000.000-00
+Telefone : 77998754292
+Endereço : 000000
+Email : null@hotmail.com
+Senha : 01020304050607080900
+"Claudio - 01020304050607080900" Aluno
+-----------------------------------
+-----------------------------------
+Nome : Kailanny
+CPF : 000.000.000-00
+Endereço : Rua da Lapa
+Telefone : 77990000000
+Email : 000000@0000000.0000
+Senha : 123456789
+Sexo : Feminino
+"Kailanny - 123456789" Funcionario
+-----------------------------------
+-----------------------------------
+Nome : Maria
+Matricula : 001
+CPF : 000.000.000-00
+Telefone : 0000000
+Endereço : 0000000
+Email : 0000000
+Senha : 123
+"Maria - 123" Aluno
+-----------------------------------
