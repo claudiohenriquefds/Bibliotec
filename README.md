@@ -2,7 +2,6 @@
 
 <p align="justify">O Bibliotec é um sistema simples de gerenciamento de biblioteca. A principio foi feito para o não uso de banco de dados. Ocorrido durante o aprendizado da linguagem.</p>
 
-![LICENSE](https://img.shields.io/badge/MIT-0D1117?style=flat-square&label=License&Color=white&labelColor=0D1117)
 ![REPO SIZE](https://img.shields.io/github/repo-size/claudiohenriquefds/bibliotec?color=0D1117&label=Repo%20Size&style=flat-square&labelColor=0D1117)
 ![LAST COMMIT](https://img.shields.io/github/last-commit/claudiohenriquefds/bibliotec?color=0D1117&label=Last%20Commit&style=flat-square&labelColor=0D1117)
 ![STATUS](https://img.shields.io/badge/Development-0D1117?style=flat-square&label=Status&Color=white&labelColor=0D1117)
